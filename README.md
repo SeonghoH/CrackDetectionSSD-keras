@@ -1,11 +1,9 @@
 # CrackDetectionSSD-keras
 
+This is https://github.com/Garamda/Concrete_Crack_Detection_and_Analysis_SW. and https://github.com/pierluigiferrari/ssd_keras It's based on that.
 
+I recommend you install and use https://github.com/pierluigiferrari/ssd_keras on the same file.
 
-## The Objective of Chamomile
-* Crack detection : Chamomile detects the cracks on the surface of the concrete structure.</br>
-* Crack width estimation & classification based on seriousness: Chamomile estimate the width of the detected cracks, and reports the more serious crack first which has wider width than others. Basically, the crack of which width is more than 0.3mm is to be classified as "high risk crack", 0.3mm ~ 0.2mm as "low risk crack", and ~ 0.2mm as "minor crack.</br>
-* Crack location reporting : Chamomile reports the actual location of the crack based on the flight log saved in the drone. With combining pixel information and the flight log, the location of crack can be calculated. It is useful for safety inspectors to know where the serious cracks locates which needs further precision diagnosis, before they physically approach to the target structure.
 
 
 ## User Benefit
